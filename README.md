@@ -36,7 +36,7 @@
 
 Check out the live demo :
 
-> 📌 [Live Demo (GitHub Pages / Vercel / Netlify)](https://your-demo-link.com)
+> 📌 [Live Demo ( Vercel )]([https://your-demo-link.com](https://e-commerce-frontend1-three.vercel.app/))
 
 ---
 
